@@ -1,0 +1,551 @@
+@media screen and (max-width: 888px) {
+  body {
+    /* background: aliceblue; */
+  }
+
+  .navigation {
+    /* background: aliceblue; */
+    width: 100%;
+    padding-left: 0px;
+  }
+
+  #logo {
+    height: 50px;
+    width: auto;
+  }
+
+  .th {
+    font-size: 1.1rem;
+    /* color: blueviolet; */
+  }
+
+  #nav {
+    margin-left: 300px;
+  }
+
+  .none {
+    margin-right: 20px;
+  }
+
+  .chillroom {
+    margin-top: 100px;
+    margin-left: 400px;
+  }
+
+  .am {
+    font-size: 2rem;
+  }
+
+  .social {
+      text-align: center;
+  }
+
+  .much,
+  .contains {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+
+  .my {
+      font-size: 1.5rem;
+  }
+
+  .flexbox {
+      flex-direction: column;
+      margin-top: 50px;
+  }
+
+  .box {
+      margin-bottom: 50px;
+  }
+
+}
+@media screen and (max-width: 900px) {
+  body {
+    /* background: aliceblue; */
+  }
+
+  .navigation {
+    /* background: aliceblue; */
+    width: 100%;
+    padding-left: 0px;
+  }
+
+  #logo {
+    height: 50px;
+    width: auto;
+  }
+
+  .th {
+    font-size: 1.1rem;
+    /* color: blueviolet; */
+  }
+
+  #nav {
+    margin-left: 300px;
+  }
+
+  .none {
+    margin-right: 20px;
+  }
+
+  .chillroom {
+    margin-top: 100px;
+    margin-left: 400px;
+  }
+
+  .am {
+    font-size: 2rem;
+  }
+
+  .social {
+      text-align: center;
+  }
+
+  .much,
+  .contains {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+
+  .my {
+      font-size: 1.5rem;
+  }
+
+  .flexbox {
+      flex-direction: column;
+      margin-top: 50px;
+  }
+
+  .box {
+      margin-bottom: 50px;
+  }
+
+}
+@media screen and (max-width: 1013px) {
+  body {
+    /* background: aliceblue; */
+  }
+
+  .navigation {
+    /* background: aliceblue; */
+    width: 100%;
+    padding-left: 0px;
+  }
+
+  #logo {
+    height: 50px;
+    width: auto;
+  }
+
+  .th {
+    font-size: 1.1rem;
+    /* color: blueviolet; */
+  }
+
+  #nav {
+    margin-left: 300px;
+  }
+
+  .none {
+    margin-right: 20px;
+  }
+
+  .chillroom {
+    margin-top: 100px;
+    margin-left: 400px;
+  }
+
+  .am {
+    font-size: 2rem;
+  }
+
+  .social, .profiles {
+      text-align: center;
+      margin-left: 40px;
+  }
+
+  .much,
+  .contains {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+
+  .my {
+      font-size: 1.5rem;
+  }
+
+  .flexbox {
+      flex-direction: column;
+      margin-top: 50px;
+  }
+
+  .box {
+      margin-bottom: 50px;
+  }
+
+}
+@media screen and (max-width: 1200px) {
+  body {
+    /* background: aliceblue; */
+  }
+
+  .navigation {
+    /* background: aliceblue; */
+    width: 100%;
+    padding-left: 0px;
+  }
+
+  #logo {
+    height: 50px;
+    width: auto;
+  }
+
+  .th {
+    font-size: 1.1rem;
+    /* color: blueviolet; */
+  }
+
+  #nav {
+    margin-left: 400px;
+  }
+
+  .none {
+    margin-right: 20px;
+  }
+
+  .chillroom {
+    margin-top: 100px;
+    margin-left: 600px;
+  }
+
+  .am {
+    font-size: 2rem;
+  }
+
+  .social, .profiles {
+      text-align: center;
+      margin-left: 40px;
+  }
+
+  .much,
+  .contains {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+
+  .my {
+      font-size: 1.5rem;
+  }
+
+  .flexbox {
+      margin-top: 50px;
+      align-items: center;
+      margin-left: 50px;
+  }
+
+  .box {
+      margin-bottom: 50px;
+      margin-left: 40px;
+      width: 300px;
+  }
+
+}
+
+@media screen and (max-width: 772px) {
+    body {
+      /* background: aliceblue; */
+    }
+  
+    .navigation {
+      /* background: aliceblue; */
+      width: 100%;
+      padding-left: 0px;
+    }
+  
+    #logo {
+      height: 50px;
+      width: auto;
+    }
+  
+    .th {
+      font-size: 1.1rem;
+      /* color: blueviolet; */
+    }
+  
+    #nav {
+      margin-left: 200px;
+    }
+  
+    .none {
+      margin-right: 20px;
+      font-size: 1rem;
+    }
+  
+    .chillroom {
+      margin-top: 100px;
+      margin-left: 300px;
+    }
+  
+    .am {
+      font-size: 2rem;
+    }
+  
+    .social {
+        text-align: center;
+    }
+  
+    .much,
+    .contains {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+  
+    .my {
+        font-size: 1.5rem;
+    }
+  
+    .flexbox {
+        flex-direction: column;
+        margin-top: 50px;
+    }
+  
+    .box {
+        margin-bottom: 50px;
+    }
+  
+  }
+  
+@media screen and (max-width: 530px) {
+    body {
+      /* background: aliceblue; */
+    }
+  
+    .navigation {
+      /* background: aliceblue; */
+      width: 100%;
+      padding-left: 0px;
+      flex-direction: column;
+      padding-bottom: 10px;
+    }
+  
+    #logo {
+      height: 50px;
+      width: auto;
+    }
+  
+    .th {
+      font-size: 1.1rem;
+      /* color: blueviolet; */
+    }
+  
+    #nav {
+      align-items: center;
+      justify-content: center;
+      margin-left: 0px;
+      margin-top: 10px;
+    }
+  
+    .none {
+      margin-right: 20px;
+      font-size: 1rem;
+    }
+  
+    .chillroom {
+      margin-top: 150px;
+      margin-left: 20px;
+    }
+  
+    .am {
+      font-size: 2rem;
+    }
+  
+    .social {
+        text-align: center;
+    }
+
+    .profiles {
+        margin-top: 20px;
+    }
+  
+    .much,
+    .contains {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+  
+    .my {
+        font-size: 1.5rem;
+    }
+  
+    .flexbox {
+        flex-direction: column;
+        margin-top: 50px;
+        margin-right: 50px;
+    }
+  
+    .box {
+        margin-bottom: 50px;
+    }
+
+    #gram {
+        height: 200px;
+    }
+  
+  }
+  
+@media screen and (max-width: 372px) {
+    body {
+        width: 100vw;
+    }
+  
+    .navigation {
+      /* background: aliceblue; */
+      width: 100%;
+      padding-left: 0px;
+      flex-direction: column;
+      padding-bottom: 10px;
+    }
+  
+    #logo {
+      height: 50px;
+      width: auto;
+    }
+  
+    .th {
+      font-size: 1.1rem;
+      /* color: blueviolet; */
+    }
+  
+    #nav {
+      align-items: center;
+      justify-content: center;
+      margin-left: 0px;
+      margin-top: 10px;
+    }
+  
+    .none {
+      margin-right: 20px;
+      font-size: 1rem;
+    }
+  
+    .chillroom {
+      margin-top: 150px;
+      margin-left: 20px;
+    }
+  
+    .am {
+      font-size: 2rem;
+    }
+  
+    .social {
+        text-align: center;
+    }
+
+    .profiles {
+        margin-top: 20px;
+    }
+  
+    .much,
+    .contains {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+  
+    .my {
+        font-size: 1.5rem;
+    }
+  
+    .flexbox {
+        flex-direction: column;
+        margin-top: 50px;
+        margin-right: 50px;
+    }
+  
+    .box {
+        margin-bottom: 50px;
+    }
+
+    #gram {
+        height: 200px;
+    }
+  
+  }
+@media screen and (max-width: 320px) {
+    body {
+        width: 100vw;
+    }
+  
+    .navigation {
+      /* background: aliceblue; */
+      width: 100%;
+      padding-left: 0px;
+      flex-direction: column;
+      padding-bottom: 10px;
+    }
+  
+    #logo {
+      height: 50px;
+      width: auto;
+    }
+  
+    .th {
+      font-size: 1.1rem;
+      /* color: blueviolet; */
+    }
+  
+    #nav {
+      align-items: center;
+      justify-content: center;
+      margin-left: 0px;
+      margin-top: 10px;
+    }
+  
+    .none {
+      margin-right: 20px;
+      font-size: 1rem;
+    }
+  
+    .chillroom {
+      margin-top: 150px;
+      margin-left: 20px;
+    }
+  
+    .am {
+      font-size: 2rem;
+    }
+  
+    .social {
+        text-align: center;
+    }
+
+    .profiles {
+        margin-top: 20px;
+    }
+  
+    .much,
+    .contains {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+  
+    .my {
+        font-size: 1.5rem;
+    }
+  
+    .flexbox {
+        flex-direction: column;
+        margin-top: 50px;
+        margin-right: 50px;
+    }
+  
+    .box {
+        margin-bottom: 50px;
+    }
+
+    #gram {
+        height: 200px;
+    }
+  
+  }
+  
